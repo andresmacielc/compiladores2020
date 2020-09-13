@@ -384,8 +384,6 @@ int main(int argc,char* args[])
 		}
 		while (t.compLex!=EOF){
 			sigLex();
-			//printf("Lin %d: %s -> %d\n",numLinea,t.pe->lexema,t.compLex);
-			//printf("Lin %d\n",t.compLex);
 			imprimir(t.compLex);
 			printf("\n");
 		}
