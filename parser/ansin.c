@@ -1,9 +1,7 @@
 /*
  *	Analizador Sintactico	
- *	Curso: Compiladores y Lenguajes de Bajo de Nivel
- *
- *	Descripcion: 
  *     Implementacion de un analizador sintactico descendente recursivo LL1 para el lenguaje JSON simplificado.	
+ * 	Andres Sebastian Maciel Cardozo
  */
 
 
