@@ -10,8 +10,6 @@ Analizador Sintactico para un Json simplificado
 
 Para compilar:
 
-~$ Ingresar a la carpeta parser
-
 ~$ gcc ansin.c -o parser
 
 ~$ ./parser fuente.txt
