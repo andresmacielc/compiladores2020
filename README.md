@@ -9,6 +9,7 @@ Analizador Sintactico para un Json simplificado
         *   Andres Sebastian Maciel Cardozo
 
 Para compilar:
+
 ~$ Ingresar a la carpeta parser
 
 ~$ gcc ansin.c -o parser
