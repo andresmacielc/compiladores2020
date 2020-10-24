@@ -2,7 +2,7 @@
 
 TRABAJO PRÁCTICO DE COMPILADORES Y LENGUAJES DE BAJO NIVEL
 
-Analizador Sintactico para un Json simplificado
+Analizador Lexico para un Json simplificado
 
 *Prof. Julio Paciello
 
@@ -10,8 +10,6 @@ Analizador Sintactico para un Json simplificado
 
 Para compilar:
 
-~$ Ingresar a la carpeta parser
+~$ gcc lexer.c tablaSimbolos.c -o lexer
 
-~$ gcc ansin.c -o parser
-
-~$ ./parser fuente.txt
+~$ ./lexer fuente.txt
