@@ -6,5 +6,5 @@ Tarea 3 - Traducción dirigida por sintaxis - Para el final
 
 **Para compilar**
 
-# gcc traductor. -o traductor
+# gcc traductor.c -o traductor
 # ./traductor fuente.txt
