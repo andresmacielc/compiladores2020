@@ -2,7 +2,7 @@ compiladores 2020
 
 Tarea 3 - Traducción dirigida por sintaxis - Para el final
 
-*Profesor: Julio Pacielo*
+*Profesor: Julio Paciello*
 
     - Andres Maciel
 
